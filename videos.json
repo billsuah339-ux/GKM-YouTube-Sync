@@ -1,20 +1,15 @@
 {
   "channelId": "UC22QeXqlLbObRMgGRxE_QBw",
-  "updatedAt": "2026-11-26T02:11:21.076103+00:00",
-  "isLive": true,
-  "live": {
-    "id": "psFgJBkYX64",
-    "title": "G. K. M Live Wednesday Service | November 25th 2026 | The Principle Of Honor.",
-    "url": "https://www.youtube.com/watch?v=psFgJBkYX64",
-    "thumbnail": "https://i.ytimg.com/vi/psFgJBkYX64/hqdefault.jpg"
-  },
+  "updatedAt": "2026-11-26T03:03:23.825775+00:00",
+  "isLive": false,
+  "live": null,
   "videos": [
     {
       "id": "psFgJBkYX64",
       "title": "G. K. M Live Wednesday Service | November 25th 2026 | The Principle Of Honor.",
       "url": "https://www.youtube.com/watch?v=psFgJBkYX64",
       "thumbnail": "https://i.ytimg.com/vi/psFgJBkYX64/hqdefault.jpg",
-      "publishedAt": "2026-11-26T00:59:17Z"
+      "publishedAt": "2026-11-26T02:38:18Z"
     },
     {
       "id": "0DnbIyqJt4c",
