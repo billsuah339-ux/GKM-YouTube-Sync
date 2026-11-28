@@ -1,20 +1,15 @@
 {
   "channelId": "UC22QeXqlLbObRMgGRxE_QBw",
-  "updatedAt": "2026-11-28T02:59:11.649612+00:00",
-  "isLive": true,
-  "live": {
-    "id": "xBCDgUlPrDw",
-    "title": "G. K. M Live Friday Service | November 27th 2026 | Remain Mindful.",
-    "url": "https://www.youtube.com/watch?v=xBCDgUlPrDw",
-    "thumbnail": "https://i.ytimg.com/vi/xBCDgUlPrDw/hqdefault.jpg"
-  },
+  "updatedAt": "2026-11-28T03:51:09.291866+00:00",
+  "isLive": false,
+  "live": null,
   "videos": [
     {
       "id": "xBCDgUlPrDw",
       "title": "G. K. M Live Friday Service | November 27th 2026 | Remain Mindful.",
       "url": "https://www.youtube.com/watch?v=xBCDgUlPrDw",
       "thumbnail": "https://i.ytimg.com/vi/xBCDgUlPrDw/hqdefault.jpg",
-      "publishedAt": "2026-11-28T01:00:12Z"
+      "publishedAt": "2026-11-28T03:32:15Z"
     },
     {
       "id": "psFgJBkYX64",
